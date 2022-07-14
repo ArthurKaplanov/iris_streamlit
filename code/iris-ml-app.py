@@ -1,5 +1,6 @@
 """
 Simple webapp with streamlit
+This is not mine project I used this for learning purposes
 """
 import streamlit as st
 import pandas as pd
