@@ -1,7 +1,10 @@
 """
 Simple webapp with streamlit
-This is not mine project I used this for learning purposes
+A simple web application using streamlit.
+In this project I used streamlit to deploy the ML model. This is one of the easiest ways to do it.
+If you don't work with django or flask and want to deploy your model online, you can use steamlit.
 """
+
 import streamlit as st
 import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
